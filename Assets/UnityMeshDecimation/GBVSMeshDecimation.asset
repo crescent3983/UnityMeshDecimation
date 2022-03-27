@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ec91d22e5e33d74cbccb8a0cd22b150, type: 3}
+  m_Name: GBVSMeshDecimation
+  m_EditorClassIdentifier: 
+  parameter:
+    UsedProperty: 32
+    BoundaryWeight: 1
+    NormalCheck: 1
+    NormalCosineThr: 0.00000000000000006123031769111886
+    OptimalPlacement: 1
+    OptimalSampleCount: 3
+    PreserveBoundary: 1
+    QuadricEpsilon: 0.000000000000001
+    QualityThr: 0.30000001192092896
+    QualityQuadric: 0
+    PreventIntersection: 1
+    PropertySettings:
+      _keys: 2000000040000000800000000001000000020000000400000008000000100000040000000800000010000000
+      _values:
+      - ExtraWeight: 10000
+        InterpolateWithAdjacentFace: 1
+        InterpolateClamped: 1
+        SqrDistanceThreshold: 0.003
+      - ExtraWeight: 0
+        InterpolateWithAdjacentFace: 1
+        InterpolateClamped: 1
+        SqrDistanceThreshold: 0.003
+      - ExtraWeight: 0
+        InterpolateWithAdjacentFace: 1
+        InterpolateClamped: 1
+        SqrDistanceThreshold: 0.003
+      - ExtraWeight: 0
+        InterpolateWithAdjacentFace: 1
+        InterpolateClamped: 1
+        SqrDistanceThreshold: 0.003
+      - ExtraWeight: 0
+        InterpolateWithAdjacentFace: 1
+        InterpolateClamped: 1
+        SqrDistanceThreshold: 0.003
+      - ExtraWeight: 0
+        InterpolateWithAdjacentFace: 1
+        InterpolateClamped: 1
+        SqrDistanceThreshold: 0.003
+      - ExtraWeight: 0
+        InterpolateWithAdjacentFace: 1
+        InterpolateClamped: 1
+        SqrDistanceThreshold: 0.003
+      - ExtraWeight: 0
+        InterpolateWithAdjacentFace: 1
+        InterpolateClamped: 1
+        SqrDistanceThreshold: 0.003
+      - ExtraWeight: 0
+        InterpolateWithAdjacentFace: 1
+        InterpolateClamped: 1
+        SqrDistanceThreshold: 0.003
+      - ExtraWeight: 0
+        InterpolateWithAdjacentFace: 1
+        InterpolateClamped: 1
+        SqrDistanceThreshold: 0.003
+      - ExtraWeight: 0
+        InterpolateWithAdjacentFace: 1
+        InterpolateClamped: 1
+        SqrDistanceThreshold: 0.003
