@@ -9,7 +9,18 @@ This project is based on [vcglib tridecimator](https://github.com/cnr-isti-vclab
 ![Input](./readme_assets/overview.png)
 Charizard © Pokémon Ltd
 
+## Compatibility
+
+Only tested with below versions but may be compatible with other versions.
+
+| Version
+|------
+| Unity 2018.4.x
+| Unity 2020.3.x
+
 ## Usage
+
+Use whole project or copy `Assets/UnityMeshDecimation` to your project
 
 ### GUI
 

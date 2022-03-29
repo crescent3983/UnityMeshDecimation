@@ -7,7 +7,18 @@
 ![Input](./readme_assets/overview.png)
 Charizard © Pokémon Ltd
 
+## 相容性
+
+目前僅測試過以下版本，但也可能兼容其他版本
+
+| 版本
+|------
+| Unity 2018.4.x
+| Unity 2020.3.x
+
 ## 使用方法
+
+使用本專案或複製`Assets/UnityMeshDecimation`到你的專案
 
 ### 圖形介面
 
